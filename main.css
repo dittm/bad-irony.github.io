@@ -1,0 +1,35 @@
+* {
+    box-sizing: border-box;
+}
+
+h2 {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.globe {
+    width: 40px;
+}
+
+.container {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.tour-card {
+    height: 350px;
+}
+
+.past-shows {
+    text-align: center;
+    text-transform: uppercase;
+    display: block grid;
+}
+
+.preview-banner {
+    background-color: #6E9B87 !important;
+}
+
+.preview-merch {
+    margin-bottom: 16px;
+}
